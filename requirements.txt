@@ -1,0 +1,10 @@
+pandas
+matplotlib
+seaborn
+split-folders
+tensorflow
+keras
+scikit-learn
+flet==0.28.3
+opencv-python
+mediapipe
