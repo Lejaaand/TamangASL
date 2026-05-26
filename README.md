@@ -19,7 +19,7 @@ A real-time American Sign Language (ASL) practice platform built with Flet and P
 
 ```bash
 git clone https://github.com/Lejaaand/TamangASL.git
-cd Tamang-ASL
+cd TamangASL
 ```
 
 **2. Create and activate a virtual environment**
